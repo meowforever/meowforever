@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @meowforever
+- 👀 I’m interested in bigdata,machine learning,python,mysql and reenforcement learning ...
+- 🌱 I’m studying at asuc-sict ...
+- 📫 How to reach me you can via email:wcj000629@163.com...
+
+<!---
+meowforever/meowforever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
